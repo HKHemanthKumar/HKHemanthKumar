@@ -41,6 +41,7 @@
 ### 📈 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![NewRelic](https://img.shields.io/badge/NewRelic-F46800?style=for-the-badge&logo=newrelic&logoColor=white)
 
 ---
 
